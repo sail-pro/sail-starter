@@ -85,7 +85,7 @@ public class SymbolConstants {
     public static final char PIPE = '|';
 
     /**
-     * @
+     * 圈
      */
     public static final char AT = '@';
 
